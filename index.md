@@ -1,13 +1,42 @@
-# Hi there! My name is Jordan Palacios
-### AI Solution Student
+# Jordan Palacios
+**AI Solutions Student**
 
-## 🚀 Proyectos
-* **Analizador de Datos:** (https://github.com/jordan6andres/MAESTRO-DE-FICHAS) - Descripción breve.
-* **Web Scraper Automático:** [Enlace a tu repo] - Hecho con Selenium/BeautifulSoup.
+---
 
-## 🎓 Certificaciones
-* [Nombre de la Certificación](URL_DE_LA_IMAGEN_O_CREDENCIAL) - Otorgado por Google/Coursera.
+## Summary
+* Hi, I’m Jordan; after spending few years in the management field, I’ve decided to make a career transition to AI and data science. I’ve completed core training in Python, SQL, and Machine Learning. Now I’m advancing my expertise through the Applied AI Solutions Development program at George Brown Polytechnic, where I’m developing hands-on skills in Deep Learning and Big Data. I really enjoy using data to uncover insights and solve complex problems.
+---
 
-## 📱 Contacto
-* [LinkedIn](tu-url-de-linkedin)
-* [GitHub](tu-url-de-github)
+## 📄 Resume
+* [Download my Resume (PDF)](./JP-Resume.pdf)  
+
+---
+
+## 🚀 Work Samples & Projects
+
+### [Project Name 1]
+* **Description:** A brief explanation of the problem you solved (e.g., "Exploratory Data Analysis of Sales Trends").
+* **Tools:** Python (Pandas, Matplotlib, Seaborn).
+* [View Source Code on GitHub](https://github.com/jordan6andres/MAESTRO-DE-FICHAS)
+
+
+---
+
+## 🎓 Certificates & Diplomas
+* **Bachelor's Degree** – [University Of Cartagena](./Certifications/Bachelor’s-degree.pdf)
+* **Data Science & ML (using Pyhton)** – [Udemy](./Certifications/Udemy-ML.pdf)
+---
+
+## 🏫 Academic Status
+* **Current Program:** [Applied A.I. Solutions Development]
+* **Institution:** [George Brown Polytechnic]
+* **Status:** In Progress (Expected Graduation: [2027])
+* *Note: Official transcripts and letters of recommendation will be available upon program completion.*
+
+---
+
+## 🔗 Professional Links
+* [LinkedIn Profile](https://www.linkedin.com/in/palaciosjordan)
+* [GitHub Repository](https://github.com/jordan6andres)
+
+---
