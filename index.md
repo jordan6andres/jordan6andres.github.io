@@ -14,7 +14,7 @@
 
 ## 🚀 Work Samples & Projects
 
-### [Project Name 1]
+### *Maestro de fichas - Python*
 * **Description:** Excel ETL process automation
 * **Tools:** Python (Pandas, Numpy, Pathlib, Openpyxl).
 * [View Source Code on GitHub](https://github.com/jordan6andres/MAESTRO-DE-FICHAS)
@@ -28,9 +28,9 @@
 ---
 
 ## 🏫 Academic Status
-* **Current Program:** [Applied A.I. Solutions Development]
-* **Institution:** [George Brown Polytechnic]
-* **Status:** In Progress (Expected Graduation: [2027])
+* **Current Program:** Applied A.I. Solutions Development
+* **Institution:** George Brown Polytechnic
+* **Status:** In Progress (Expected Graduation: **2027**)
 * *Note: Official transcripts and letters of recommendation will be available upon program completion.*
 
 ---
