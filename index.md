@@ -15,8 +15,8 @@
 ## 🚀 Work Samples & Projects
 
 ### [Project Name 1]
-* **Description:** A brief explanation of the problem you solved (e.g., "Exploratory Data Analysis of Sales Trends").
-* **Tools:** Python (Pandas, Matplotlib, Seaborn).
+* **Description:** Excel ETL process automation
+* **Tools:** Python (Pandas, Numpy, Pathlib, Openpyxl).
 * [View Source Code on GitHub](https://github.com/jordan6andres/MAESTRO-DE-FICHAS)
 
 
