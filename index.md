@@ -1,4 +1,4 @@
-## Summary
+## Bio
 * Hi, I’m Jordan; after spending few years in the management field, I’ve decided to make a career transition to AI and data science. I’ve completed core training in Python, SQL, and Machine Learning. Now I’m advancing my expertise through the Applied AI Solutions Development program at George Brown Polytechnic, where I’m developing hands-on skills in Deep Learning and Big Data. I really enjoy using data to uncover insights and solve complex problems.
 ---
 
